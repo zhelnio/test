@@ -7,7 +7,7 @@
 
 - Microarchitecture of schoolRISCV (Russian) [[pdf](doc/slides_ru.pdf)]
 - RISC-V ISA Specification [[pdf](doc/riscv-spec-20191213.pdf), [source](https://riscv.org/technical/specifications/)]
-- RARS Simulator [GitHub](https://github.com/TheThirdOne/rars)
+- RARS Simulator [[GitHub](https://github.com/TheThirdOne/rars)]
 
 ### Microarchitecture of schoolRISCV (Russian)
 
