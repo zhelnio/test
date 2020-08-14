@@ -14,6 +14,6 @@
 ### RISC-V ISA
 
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://zhelnio.github.io/test/doc/riscv-spec-20191213.pdf" width="1000" height="1200">
+viewer?embedded=true&url=https://zhelnio.github.io/test/doc/riscv-spec-20191213.pdf" width="1000" height="800">
 
 [isa.pdf](doc/riscv-spec-20191213.pdf)
