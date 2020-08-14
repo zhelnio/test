@@ -7,13 +7,13 @@
 
 ### Microarchitecture of schoolRISCV (Russian)
 
-<iframe src="https://zhelnio.github.io/test/slides.html" style="width: 800px; height: 450px; border: 0px"></iframe>
+<iframe src="https://zhelnio.github.io/test/slides.html" style="width: 1000px; height: 560px; border: 0px"></iframe>
 
 [download pdf](doc/slides_ru.pdf)
 
 ### RISC-V ISA
 
 <embed src="https://drive.google.com/viewerng/
-viewer?embedded=true&url=https://zhelnio.github.io/test/doc/riscv-spec-20191213.pdf" width="500" height="375">
+viewer?embedded=true&url=https://zhelnio.github.io/test/doc/riscv-spec-20191213.pdf" width="1000" height="1200">
 
 [isa.pdf](doc/riscv-spec-20191213.pdf)
